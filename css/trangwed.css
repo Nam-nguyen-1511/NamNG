@@ -1,0 +1,130 @@
+
+body{
+    margin: 0;
+}
+.khung{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px 0;
+    background-color: rgb(233, 88, 35);
+}
+.khung-co{
+    float: right;
+    margin-right: 150px;
+    margin-top: 4px;
+    text-align: right;
+}
+nav{
+    text-align: center;
+    padding: 10px;
+    z-index: 1;
+    position: relative;
+}
+nav a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0 10px;
+    margin-top: 20px;
+}
+nav a:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+.banner{
+    width: 100%;
+    margin-top: -48px;
+}
+.logo{
+    width: 100%;
+    margin-top: -48px;
+}
+.trang_con{
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: rgb(228, 148, 119);
+}
+.lien_he{
+    text-align: center;
+}
+.lien_he1{
+    color: black;
+    text-align: center;
+}
+.nho{
+    padding-left: 20%;
+    font-size: 15px;
+    text-align: left;
+}
+.trang_chu{
+    color: orange;
+    text-align: center;
+}
+footer{
+    background-color: white;
+    min-height: 200px;
+    clear: both;
+    margin-bottom: auto;
+}        
+footer>h2{
+    color: orange;
+    text-align: center;
+}
+footer .khung1 div{
+    float: left;
+}    
+.cot-1, .cot-3, .cot-4{
+    width: 25%;
+}
+.link-tieu-de{
+    display: block;
+    color: orange;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+footer .con{
+    padding-left: 25%;
+    font-size: 15px;
+    text-align: left;
+}
+footer .con1{
+    padding-left: 10%;
+    font-size: 15px;
+    text-align: left;
+}
+footer .con2{
+    padding-left: 15%;
+    font-size: 15px;
+    text-align: left;
+}
+footer .con3{
+    padding-left: 20%;
+    font-size: 15px;
+    text-align: left;
+}
+.socials-share {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.socials-share a {
+    padding: 4px 30px;
+    color: #fff;
+    line-height: 2em;
+    text-decoration: none;
+    border-radius: 2px;
+    white-space: nowrap;
+    display: inline-block;
+    margin-bottom: 4px;
+}
+
+.socials-share span.fa {
+    margin-right: 3px;
+}
+
+
+
+
